@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jean Moreira 👋
   - 🔭 Atualmente eu trabalho com back-end ...
-- 🌱 Estou estudando Spring e um pouco de React ...
+- 🌱 Estou estudando Spring e um pouco de Angular/React ...
 
 <div align="center">
   <a href="https://github.com/devjean96">
@@ -14,6 +14,7 @@
   <img align="center" alt="devJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="devJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="devJ-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="devJ-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />        
   <img align="center" alt="devJ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="devJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="devJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
